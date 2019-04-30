@@ -12,6 +12,7 @@ A tool for changing from 'HEISEI' to 'REIWA' using genetic algorithm.
 ![end](figs/end.png)
 
 Japanese blog can be seen from the following link:  
+https://upura.hatenablog.com/entry/heisei2reiwa
 
 ## Requirement
 - Python 3.x
